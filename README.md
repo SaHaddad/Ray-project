@@ -1,2 +1,2 @@
 # Ray-project
-A raytracing engine in matplotlib
+A raytracing engine made by me 
